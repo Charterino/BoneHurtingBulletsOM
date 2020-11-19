@@ -1,0 +1,5 @@
+chances:
+  - Limb: "HEAD"
+    Chance: 5
+  - Limb: "SPINE"
+    Chance: 15
